@@ -13,15 +13,13 @@ const client = new TwitterApi({
   try {
     // 📝 Isi tweet kamu di sini (nanti aku bantu isi sesuai request kamu)
     const textTweet = `
-🥪🍟 Promo resto makin hemat!
-ShopeeFood diskon 70%  ✨
-Min. 30rb → diskon s.d. 50rb
+3 Pcs Nashville Chicken Wings + Rice Diskon Jadi 12K an aja DAPET ‼️🍗
 
-👉 Buruan klaim:
-https://spf.shopee.co.id/AKSBCqfFyD
-https://spf.shopee.co.id/AKSBCqfFyD
+Gass klaim disiniii 👇
+spf.shopee.co.id/120VKQhGS
+spf.shopee.co.id/120VKQhGS
 
-t. gofood grabfood kode go grab shopee food sfood daget gojek gratis ongkir voucher
+t. gofood grabfood shopeefood kode promo go grab shopee food sfood voucher gojek daget gratis ongkir
 `;
 
     // 📸 Upload 1 gambar dari repo
