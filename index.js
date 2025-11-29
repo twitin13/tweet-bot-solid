@@ -17,9 +17,8 @@ const client = new TwitterApi({
 
 Gass klaim disiniii 👇
 spf.shopee.co.id/120VKQhGS
-spf.shopee.co.id/120VKQhGS
 
-t. gofood grabfood shopeefood kode promo go grab shopee food sfood voucher gojek daget gratis ongkir
+t. gofood grabfood shopeefood kode promo go grab shopee food sfood voucher gojek daget gratis ongkir Gary Iskak Raisa 
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -36,4 +35,5 @@ t. gofood grabfood shopeefood kode promo go grab shopee food sfood voucher gojek
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
