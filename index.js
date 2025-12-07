@@ -16,9 +16,10 @@ const client = new TwitterApi({
 3 Pcs Nashville Chicken Wings + Rice Diskon Jadi 12K an aja DAPET ‼️🍗
 
 Gass klaim disiniii 👇
-spf.shopee.co.id/120VKQhGS
+https://spf.shopee.co.id/5fhT2mV2hF
+https://spf.shopee.co.id/5fhT2mV2hF
 
-t. gofood grabfood shopeefood kode promo go grab shopee food sfood voucher gojek daget gratis ongkir Gary Iskak Raisa 
+t. gofood grabfood shopeefood kode promo go grab shopee food sfood voucher gojek daget gratis ongkir jumat sabtu malming gratong 
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -35,5 +36,6 @@ t. gofood grabfood shopeefood kode promo go grab shopee food sfood voucher gojek
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
 
